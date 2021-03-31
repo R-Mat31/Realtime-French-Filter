@@ -1,0 +1,7 @@
+button:hover{
+ background-color : greenyellow;
+}
+canvas{
+ box-shadow : 4px 4px 20px black;
+ margin-top : 25px;
+}
